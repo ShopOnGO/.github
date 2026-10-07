@@ -22,6 +22,10 @@
 ## 📸 Скриншоты
 
 <p align="center">
+  <img src="./screens/profile.png" alt="Профиль пользователя" width="100%">
+</p>
+
+<p align="center">
   <img src="./screens/cart.png" alt="Корзина" width="100%">
 </p>
 
